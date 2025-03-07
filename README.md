@@ -58,8 +58,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/monie-tech/monie-tech/output/snake.svg" alt="Snake animation" />
-
-###
