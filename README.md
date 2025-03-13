@@ -2,13 +2,13 @@
 
 I'm Cosmic, a **Full Stack Developer & UI Enthusiast** based in India.  
 
-I love bringing ideas to life by designing and developing **beautiful, responsive, and efficient websites**. My goal is to build **visually appealing** and **high-performance** applications that provide a seamless user experience.  
+I love bringing ideas to life by designing and developing beautiful, responsive, and efficient websites. My goal is to build visually appealing and high-performance applications that provide a seamless user experience.  
 
 ### 💡 Fun Facts:
-- I enjoy **designing and developing cute websites**.  
-- I love **tricky JavaScript questions** and often challenge my students with them.  
-- When I start a **K-drama**, I tend to binge-watch it in one night. 😆  
-- I spend time **playing games** with my friends, though my phone struggles to keep up! 🎮  
+- I enjoy designing and developing cute websites.  
+- I love tricky JavaScript questions and often challenge my students with them.  
+- When I start a K-drama, I tend to binge-watch it in one night. 😆  
+- I spend time playing games with my friends, though my phone struggles to keep up! 🎮  
 
 ###
 
